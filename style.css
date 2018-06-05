@@ -1,0 +1,21 @@
+i.fa-cloud,i.fa-heart,i.fa-car,i.fa-file{
+  color:blue;
+  size:48px;
+  font-size:60px;
+  }
+  i.fa-bars{
+    color:red;
+  }
+
+i.fa-heart{
+  color:red;
+
+  }
+.box{
+  background:purple;
+  width: 200px;
+  height: 100px;
+  border: 15px solid black;
+  padding: 25px;
+  margin: 20px;
+}
